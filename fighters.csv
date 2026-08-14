@@ -1,0 +1,55 @@
+first_name,last_name,weight_class,wins,losses,draws,ko_wins,submission_wins,reach_in,stance
+Jon,Jones,Light Heavyweight,28,1,0,11,7,84.5,Orthodox
+Tom,Aspinall,Heavyweight,15,3,0,12,3,78.0,Orthodox
+Islam,Makhachev,Lightweight,27,1,0,5,13,70.5,Orthodox
+Alexander,Volkanovski,Featherweight,27,4,0,13,3,71.5,Orthodox
+Charles,Oliveira,Lightweight,35,11,0,10,23,74.0,Orthodox
+Conor,McGregor,Lightweight,22,6,0,19,1,74.0,Southpaw
+Khabib,Nurmagomedov,Lightweight,29,0,0,8,11,70.0,Orthodox
+Israel,Adesanya,Middleweight,24,5,0,16,1,80.0,Orthodox
+Dricus,du Plessis,Middleweight,23,3,0,10,3,76.0,Orthodox
+Robert,Whittaker,Middleweight,27,8,0,10,5,73.5,Orthodox
+Max,Holloway,Featherweight,27,9,0,13,2,69.0,Orthodox
+Dustin,Poirier,Lightweight,30,10,0,16,8,72.0,Southpaw
+Justin,Gaethje,Lightweight,27,5,0,20,1,70.0,Orthodox
+Paddy,Pimblett,Lightweight,23,3,0,7,10,73.0,Orthodox
+Sean,O'Malley,Bantamweight,18,3,0,12,1,72.0,Southpaw
+Merab,Dvalishvili,Bantamweight,20,4,0,3,2,68.0,Orthodox
+Aljamain,Sterling,Bantamweight,25,5,0,3,8,71.5,Orthodox
+Ilia,Topuria,Featherweight,17,0,0,6,8,69.0,Orthodox
+Jiri,Prochazka,Light Heavyweight,32,5,1,29,3,80.0,Orthodox
+Alex,Pereira,Light Heavyweight,13,3,0,11,1,79.0,Orthodox
+Daniel,Cormier,Heavyweight,22,3,0,10,5,72.0,Orthodox
+Stipe,Miocic,Heavyweight,20,5,0,15,1,80.0,Orthodox
+Francis,Ngannou,Heavyweight,17,3,0,12,4,83.0,Orthodox
+Ciryl,Gane,Heavyweight,13,2,0,6,1,83.0,Orthodox
+Kamaru,Usman,Welterweight,20,4,0,9,1,76.0,Orthodox
+Leon,Edwards,Welterweight,22,5,0,7,3,74.0,Southpaw
+Stephen,Thompson,Welterweight,17,8,1,8,1,75.5,Orthodox
+Jorge,Masvidal,Welterweight,35,17,0,18,2,74.0,Orthodox
+Nate,Diaz,Welterweight,22,13,0,5,13,76.0,Southpaw
+Nick,Diaz,Welterweight,27,10,2,13,8,76.0,Southpaw
+Colby,Covington,Welterweight,17,5,0,4,0,72.0,Orthodox
+Shavkat,Rakhmonov,Welterweight,19,0,0,8,10,77.0,Orthodox
+Gilbert,Burns,Welterweight,22,8,0,6,9,71.5,Orthodox
+Michael,Chiesa,Welterweight,18,7,0,2,11,74.0,Southpaw
+Rafael,dos Anjos,Lightweight,32,16,0,5,11,70.0,Southpaw
+Tony,Ferguson,Lightweight,26,11,0,13,9,76.0,Orthodox
+Eddie,Alvarez,Lightweight,30,8,0,17,7,69.0,Orthodox
+Jose,Aldo,Bantamweight,32,10,0,17,1,70.0,Orthodox
+Petr,Yan,Bantamweight,17,6,0,7,1,67.0,Orthodox
+Cory,Sandhagen,Bantamweight,18,5,0,7,3,70.0,Switch
+Marlon,Vera,Bantamweight,23,11,1,8,10,70.5,Orthodox
+Henry,Cejudo,Bantamweight,18,4,0,8,1,64.0,Orthodox
+Demetrious,Johnson,Flyweight,27,3,1,5,13,66.0,Orthodox
+Brandon,Moreno,Flyweight,22,8,2,6,11,70.0,Orthodox
+Alexandre,Pantoja,Flyweight,29,5,0,10,10,68.0,Orthodox
+Deiveson,Figueiredo,Flyweight,24,5,1,9,6,68.0,Orthodox
+Valentina,Shevchenko,Flyweight,24,4,1,8,7,66.0,Orthodox
+Amanda,Nunes,Bantamweight,23,5,0,13,4,69.0,Orthodox
+Weili,Zhang,Strawweight,26,3,0,11,8,63.0,Orthodox
+Rose,Namajunas,Strawweight,13,6,0,2,7,65.0,Southpaw
+Joanna,Jedrzejczyk,Strawweight,16,5,0,4,1,65.5,Orthodox
+Tatiana,Suarez,Strawweight,11,0,0,3,4,66.0,Orthodox
+Manon,Fiorot,Flyweight,12,1,0,5,0,68.0,Orthodox
+Alexa,Grasso,Flyweight,16,4,1,4,7,66.0,Orthodox
