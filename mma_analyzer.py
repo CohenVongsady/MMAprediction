@@ -1,7 +1,9 @@
+from pathlib import Path
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
-DATA_FILE = "fighters.csv"
+DATA_FILE = Path(__file__).resolve().parent / "fighters.csv"
 
 def load_data():
     df = pd.read_csv(DATA_FILE)
